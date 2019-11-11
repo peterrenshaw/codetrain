@@ -15,6 +15,9 @@ coding challenge and instead of P5JS I'll try to re-create them in Elm.
 1.0 2019NOV11 Make a Bullseye in SVG
 * added 1.0
 - bullseye
+![alt text][bullseye]
+[bullseye]: https://github.com/peterrenshaw/codetrain/blob/master/1.0/bullseye.png "A Bullseye in SVG (png)"
+
 
 2.0 2019NOV07
 * pushed back to 2.0
