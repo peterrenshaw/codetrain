@@ -29,8 +29,8 @@ main =
 
 
 view =
-    collage 300
-        300
+    collage 100
+        100
         [ circle 35
             |> filled (rgba 0 0 255 1)
             |> move ( 10, 0 )

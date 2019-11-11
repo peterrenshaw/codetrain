@@ -22,6 +22,10 @@
 
 
 #### 2019NOV11
+* Build something using Elm and SVG
+  (or any library that lets me create SVG)
+- lets build a bullseye.
+
 
 * upload to github
 - bullseye 
