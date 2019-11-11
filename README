@@ -6,11 +6,17 @@
 \___/_/_/ /_/ /_/\__/_/   \__,_/_/_/ /_/ 
 
 
-2019NOV11
+I love Code Train and it's Coding Challenges. So I've decided to make
+my own Elm Train and Elm Challenges. Some examples I rip straight from 
+coding challenge and instead of P5JS I'll try to re-create them in Elm.
+
+
+
+1.0 2019NOV11 Make a Bullseye in SVG
 * added 1.0
 - bullseye
 
-2019NOV07
+2.0 2019NOV07
 * pushed back to 2.0
 * animate svg
 - purple rain 
